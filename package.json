@@ -1,0 +1,17 @@
+{
+  "name": "jsonToMD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adobe/jsonschema2md": "^2.0.0",
+    "commander": "^2.20.0",
+    "joi": "^14.3.1",
+    "joi-to-json-schema": "^4.0.1"
+  }
+}
